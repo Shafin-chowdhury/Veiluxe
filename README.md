@@ -19,7 +19,8 @@ A modern, responsive web application for showcasing and buying modest fashion we
 
 ## 📷 Screenshots
 
-_Add some screenshots of your landing page, login page, and register page here._
+![image](https://github.com/user-attachments/assets/b434ba52-e507-4d2e-837b-a53439c6a218)
+
 
 ## 📁 Folder Structure
 
